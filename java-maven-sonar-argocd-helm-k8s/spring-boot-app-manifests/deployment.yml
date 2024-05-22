@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: mayuripakhe/docker_repo:replaceImageTag
+        image: mayuripakhe/docker_repo:2
         ports:
         - containerPort: 8080
